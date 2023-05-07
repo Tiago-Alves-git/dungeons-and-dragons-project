@@ -10,19 +10,19 @@ export default abstract class Archetype {
     this._special = 0;
   }
 
-  get name() {
+  get name() :string {
     return this._name;
   }
 
-  get cost() {
+  get cost() :number {
     return this._cost;
   }
 
-  get special() {
+  get special() :number {
     return this._special;
   }
 
-  static createdRacesInstances() :number {
+  static createdArchetypeInstances() :number {
     throw new Error('Not implemented');
   }
 
