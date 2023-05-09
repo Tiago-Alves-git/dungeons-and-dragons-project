@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido durante o curso de desenvolvimento web da Trybe du
 
 ## 🎲 Trybers and Dragons EN-US 🐉
 
-### <strong>💻 Sobre</strong>
+### <strong>💻 About </strong>
 This project was made during my fullstack developer course on Trybe, more specifically during the back-end module. The objective was to create a game in D&D style, using OOP e Solid.
 
 ---
